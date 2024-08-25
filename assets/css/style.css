@@ -1,0 +1,32 @@
+.navegacion{
+    display: flex;
+    justify-content: end;
+}
+.logo{
+    width: 87pt;
+    height: 36pt;
+}
+.portada{
+    width=50%; 
+    height=220;
+    border-radius: 50px;
+}
+.letra{
+    font-family: roboto;
+}
+.foto{
+    width: 190pt;
+    height: 36pt;
+}
+
+.imagen{
+    width: 124pt;
+    height: 264pt;
+}
+.targeta{
+    width: 184pt;
+    height: 100pt;
+}
+.enviar{   
+    text-align: center;
+}
